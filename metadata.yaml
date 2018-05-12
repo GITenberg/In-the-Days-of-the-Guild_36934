@@ -1,0 +1,41 @@
+_repo: In-the-Days-of-the-Guild_36934
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Hatt, Mabel K.
+    aliases:
+    - Haagens, Mabel Hatt
+    - Haagens, Mrs. David
+    deathdate: 1971
+    gutenberg_agent_id: '38542'
+    url: http://www.gutenberg.org/2009/agents/38542
+  - agent_name: Gardiner, Florence Mary
+    gutenberg_agent_id: '37270'
+    url: http://www.gutenberg.org/2009/agents/37270
+covers:
+- cover_type: archival
+  image_path: 36934-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lamprey, Louise
+    alias: Lamprey, L. (Louise)
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1843'
+    url: http://www.gutenberg.org/2009/agents/1843
+description: ''
+gutenberg_issued: '2011-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle Ages -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Great Britain -- History -- Henry II, 1154-1189 -- Juvenile fiction'
+- !lcsh 'Guilds -- Juvenile fiction'
+title: In the Days of the Guild
+url: http://www.gutenberg.org/ebooks/36934
